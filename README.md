@@ -1,6 +1,5 @@
 
-# itstack-demo-netty netty4.x案例 | 跟着案例学Netty
-微信公众号：bugstack虫洞栈，欢迎您的关注&获取更多案例与源码！博客栈：[https://bugstack.cn ](https://bugstack.cn)
+# demo-netty netty4.x案例 | 跟着案例学Netty
 
 本专题针对netty4.x分为从；基础入门篇(十三篇)、中级拓展篇(十三篇)、高级应用篇(三章+)以及源码分析篇，由浅入深通过案例实战学习netty，使netty学习者快速上手到实用。{那么，给个Star星星吧！}
 
